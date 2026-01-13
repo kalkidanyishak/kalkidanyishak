@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @kalkidanyishak
-- 👀 I’m interested in web development and AI
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on frontend and backend javasript projects
-- 📫 How to reach me website coming soon
-- tanstack table, react hook form, react query, shadcnui
-
-<!---
-kalkidanyishak/kalkidanyishak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Kalkidan (@kalkidanyishak)
+• Frontend Engineer building developer productivity tools for B2B applications
+• Specializing in config-driven component architecture (TanStack Table, React Hook Form, shadcn/ui)
+• Currently shipping EMR system for refugee healthcare with CUAMM Ethiopia
+• Building reusable UI libraries that reduce development time by 96%
